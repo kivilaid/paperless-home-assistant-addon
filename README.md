@@ -47,3 +47,8 @@ comparison to installing any other Home Assistant add-on.
 [license-shield]: https://img.shields.io/github/license/kivilaid/paperless-home-assistant-addon.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-stable-green.svg
+[releases-shield]: https://img.shields.io/github/release/kivilaid/paperless-home-assistant-addon.svg
+[releases]: https://github.com/kivilaid/paperless-home-assistant-addon/releases
+[repository]: https://github.com/kivilaid/home-assistant-addons-repository
+[addon]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=ca5234a0_paperless-ngx&repository_url=https%3A%2F%2Fgithub.com%2Fkivilaid%2Fhome-assistant-addons-repository
+[addon-badge]: https://my.home-assistant.io/badges/supervisor_addon.svg
